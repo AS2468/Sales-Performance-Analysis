@@ -6,7 +6,7 @@ I developed an interactive Power BI dashboard to track KPIs, identify top-perfor
 
 The goal of this project was to transform raw sales data into actionable business insights regarding revenue growth, unit sales, and customer payment preferences.
 
-<img width="1024" height="577" alt="image" src="https://github.com/user-attachments/assets/17d2eead-bad2-4c44-af25-441a131a24c9" />
+<img width="1539" height="869" alt="image" src="https://github.com/user-attachments/assets/62e67b9f-5fa8-4153-b2a5-d90dda3b6cd5" />
 
 
 ## Key Features
