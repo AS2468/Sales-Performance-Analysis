@@ -6,9 +6,6 @@ I developed an interactive Power BI dashboard to track KPIs, identify top-perfor
 
 The goal of this project was to transform raw sales data into actionable business insights regarding revenue growth, unit sales, and customer payment preferences.
 
-<img width="1539" height="869" alt="image" src="https://github.com/user-attachments/assets/62e67b9f-5fa8-4153-b2a5-d90dda3b6cd5" />
-
-
 ## Key Features
 * **Total Metrics Overview:** Real-time tracking of Total Sales Revenue, Total Units Sold, and Average Customer Ratings.
 * **Brand Performance:** Comparison of market leaders (Apple, Samsung, Vivo, Xiaomi, OnePlus) by units sold and revenue generated.
